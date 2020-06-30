@@ -28,3 +28,4 @@ https://rubyinstaller.org/downloads/
 vagrant up
 ```
 # vagrant_reloaded
+hello
