@@ -1,7 +1,7 @@
 # Ansible nodejs
 
 Running nodejs useing Ansible.
-test 88 wide 88
+test 88 wide 88 set hut
 
 ## Prerequisite
 
